@@ -1,16 +1,16 @@
 # Shell
 
-A lightweight collection of useful shell scripts and command-line utilities built to automate everyday tasks, simplify workflows, and improve productivity.
+A lightweight collection of useful shell scripts and command-line utilities designed to automate everyday tasks, streamline workflows, and boost productivity.
 
 ---
 
 ## 🚀 Features
 
-* Simple and easy-to-use shell scripts
-* Automation for repetitive tasks
-* Beginner-friendly structure
-* Lightweight and fast
-* Easy to customize and extend
+* Simple and easy-to-use shell scripts.
+* Automation for repetitive tasks.
+* Beginner-friendly structure.
+* Lightweight and fast.
+* Easy to customize and extend.
 
 ---
 
