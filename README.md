@@ -14,7 +14,7 @@ A lightweight collection of useful shell scripts and command-line utilities desi
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```bash
 Shell/
@@ -91,13 +91,13 @@ Example:
 
 ## 📌 Example Use Cases
 
-* File backup automation
-* Log cleanup
-* Docker/container helpers
-* DevOps utilities
-* Git automation
-* System monitoring
-* AWS/Linux administration tasks
+* File backup automation.
+* Log cleanup.
+* Docker/container helpers.
+* DevOps utilities.
+* Git automation.
+* System monitoring.
+* AWS/Linux administration tasks.
 
 ---
 
